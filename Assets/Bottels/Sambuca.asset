@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4701b5bc17c179479616d52d12c7c42, type: 3}
+  m_Name: Sambuca
+  m_EditorClassIdentifier: 
+  Name: Sambuca
+  DrinkCategory: 0
+  Sprite: {fileID: -2103697783267291132, guid: 0b0412498d3957b428b03a3d21af2726, type: 3}
