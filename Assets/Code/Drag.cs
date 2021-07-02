@@ -24,7 +24,7 @@ public class Drag : MonoBehaviour
             else if (touch.phase == TouchPhase.Ended && _draggedCollider != null)
             {
                 _draggedCollider = null;
-            }          
+            }            
         }
     }
 }
