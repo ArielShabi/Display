@@ -10,8 +10,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: a4701b5bc17c179479616d52d12c7c42, type: 3}
-  m_Name: Ricard
+  m_Name: Campari
   m_EditorClassIdentifier: 
-  Name: Ricard
-  DrinkCategory: 0
-  Sprite: {fileID: -311198505533656378, guid: 85fb68843ae72904cabc3dcf9f49da5b, type: 3}
+  Name: 
+  DrinkCategory: 2
+  Sprite: {fileID: -6675544518896735194, guid: 1fe65d9e9cc557045959347e3b8e5137, type: 3}

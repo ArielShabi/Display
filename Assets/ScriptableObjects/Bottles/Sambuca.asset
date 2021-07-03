@@ -13,5 +13,5 @@ MonoBehaviour:
   m_Name: Sambuca
   m_EditorClassIdentifier: 
   Name: Sambuca
-  DrinkCategory: 0
+  DrinkCategory: 1
   Sprite: {fileID: -2103697783267291132, guid: 0b0412498d3957b428b03a3d21af2726, type: 3}
