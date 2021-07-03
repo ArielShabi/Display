@@ -2,5 +2,6 @@
 {
     BlendedMalt,
     AniseLiqueur,
-    AperitifBitter
+    AperitifBitter,
+    FruitLiqueur
 }
